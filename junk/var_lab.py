@@ -36,7 +36,7 @@ else:
    print(f"Sorry {player_UserName}, you need to be online to play the game.")
 
 
-is_Admin = True
-admin_UserName = "PrakharrAdmin"
-year = 2026
-percentage_Of_Code_Reviewed = 96.5
+is_Admin = True #can be True or False, Boolean
+admin_UserName = "PrakharrAdmin"   # It is a string
+year = 2026 # it is a integer
+percentage_Of_Code_Reviewed = 96.5 # it is a float variable
