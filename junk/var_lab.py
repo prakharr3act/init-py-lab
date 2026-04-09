@@ -16,3 +16,4 @@ print(f"Quantity of items in the cart is {Quantity}") # Output: Quantity of item
 
 # Variable names in Python must start with a letter or an underscore (_) and can contain letters, numbers, and underscores. They cannot start with a number or contain spaces.
 
+#Float variable (It is a number but contains decimal points)
