@@ -3,3 +3,7 @@
 github_UserName = "Prakharr3act"
 print(github_UserName) # Output: Prakharr3act
 print(f"Hello this is {github_UserName}") # Output: Hello this is Prakharr3act
+
+
+user_Email = "prakhar.codes433@gmail.com"
+print(user_Email) # Output: prakhar.codes433@gmail.com
