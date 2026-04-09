@@ -3,3 +3,6 @@
    It helps us to put message in that so after we can work on it.
    It can be created using #.
    Example: # This is a comment and only developer can read thissss.
+
+3. Variables in Python are container to store data as we saw in Javascript, C languages and many more
+  Variables store (string,float,boolean,integer)
