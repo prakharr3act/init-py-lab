@@ -13,3 +13,6 @@ print(no_Of_Repositories) # Output: 95
 
 Quantity = 12
 print(f"Quantity of items in the cart is {Quantity}") # Output: Quantity of items in the cart is 12
+
+# Variable names in Python must start with a letter or an underscore (_) and can contain letters, numbers, and underscores. They cannot start with a number or contain spaces.
+

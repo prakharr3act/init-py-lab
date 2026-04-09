@@ -16,3 +16,8 @@
   no_Of_Repos = 95
   Quantity = 3
 
+  //Remember//
+  Variable names in Python must start with a letter or an underscore (_) and can contain letters, numbers, and underscores. They cannot start with a number or contain spaces.
+
+
+
