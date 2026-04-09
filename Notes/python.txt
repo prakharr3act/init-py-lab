@@ -11,4 +11,7 @@
   userName = "Prakhar721.git"
   Address = "9th Lane Vim" This treats numbers as string
 
+  Integer: use number in it
+  age = 15
+  no_Of_Repos = 95
   
