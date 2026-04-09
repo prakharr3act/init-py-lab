@@ -40,3 +40,6 @@ is_Admin = True #can be True or False, Boolean
 admin_UserName = "PrakharrAdmin"   # It is a string
 year = 2026 # it is a integer
 percentage_Of_Code_Reviewed = 96.5 # it is a float variable
+
+
+# All this code which is written by me is just for practice and learning purpose. I am trying to understand the basic concepts of Python programming language. I am not using any of this code for any commercial or illegal purposes. I am just a beginner in Python and I am trying to learn it much as I can.
