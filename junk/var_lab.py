@@ -10,3 +10,6 @@ print(user_Email) # Output: prakhar.codes433@gmail.com
 
 no_Of_Repositories = 95
 print(no_Of_Repositories) # Output: 95
+
+Quantity = 12
+print(f"Quantity of items in the cart is {Quantity}") # Output: Quantity of items in the cart is 12
