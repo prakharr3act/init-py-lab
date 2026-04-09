@@ -19,3 +19,7 @@ print(f"Quantity of items in the cart is {Quantity}") # Output: Quantity of item
 #Float variable (It is a number but contains decimal points)
 pi = 3.14
 print(f"The Value of pi is {pi}") # Output: The Value of pi is 3.14
+
+#Boolean variable (It can only have two values: True or False)
+is_User_Logged_In = True
+print(f"Is the user logged in? {is_User_Logged_In}") # Output: Is the user logged in? True
