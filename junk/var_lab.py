@@ -23,3 +23,14 @@ print(f"The Value of pi is {pi}") # Output: The Value of pi is 3.14
 #Boolean variable (It can only have two values: True or False)
 is_User_Logged_In = True
 print(f"Is the user logged in? {is_User_Logged_In}") # Output: Is the user logged in? True
+
+
+# if and else in python
+
+is_User_Online = False #can ve True or False
+player_UserName = "Prakharr3act"
+
+if is_User_Online:
+   print(f"Welocome {player_UserName} to the game!") # Output: Welcome Prakharr3act to the game!
+else:
+   print(f"Sorry {player_UserName}, you need to be online to play the game.")

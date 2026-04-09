@@ -22,5 +22,5 @@
 #Float variable
  (It is a number but contains decimal points)
 
- 
+ #Boolean variable (It can only have two values: True or False)
 
