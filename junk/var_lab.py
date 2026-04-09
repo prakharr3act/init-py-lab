@@ -34,3 +34,9 @@ if is_User_Online:
    print(f"Welocome {player_UserName} to the game!") # Output: Welcome Prakharr3act to the game!
 else:
    print(f"Sorry {player_UserName}, you need to be online to play the game.")
+
+
+is_Admin = True
+admin_UserName = "PrakharrAdmin"
+year = 2026
+percentage_Of_Code_Reviewed = 96.5
