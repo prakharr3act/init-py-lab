@@ -6,3 +6,9 @@
 
 3. Variables in Python are container to store data as we saw in Javascript, C languages and many more
   Variables store (string,float,boolean,integer)
+
+  string: write inside "" 
+  userName = "Prakhar721.git"
+  Address = "9th Lane Vim" This treats numbers as string
+
+  
