@@ -1,0 +1,1 @@
+# TypeCasting is the process of converting a variable from one type to another. In Python, you can use built-in functions to perform type casting. (str(), int(), float(), etc.)
