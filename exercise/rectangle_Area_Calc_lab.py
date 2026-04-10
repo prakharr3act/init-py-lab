@@ -3,4 +3,4 @@
 length = float(input("Enter the Length of the reactangle: "))
 width = float(input("Enter the Width of the reactangle: "))
 area = length * width
-print("The area of the reactangle is: " + float(area) + " cm²")
+print("The area of the reactangle is: " + str(area) + " cm²")
