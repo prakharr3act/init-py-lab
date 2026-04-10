@@ -11,5 +11,12 @@ new_Gpa = int(gpa)  # Converts float to int
 print(new_Gpa)  # Output: 3
 
 # The code below will raise an error. 
-new_Name = float(Name)
-print(new_Name)  # This will raise a ValueError because "John" cannot be converted to a float
+#new_Name = float(Name)
+# print(new_Name)
+# This will raise a ValueError because "John" cannot be converted to a float
+
+#Boolean
+
+user_Id = "Prakhar721p"
+is_valid_user = bool(user_Id)  # Converts string to boolean
+print(is_valid_user)  # Output: True
