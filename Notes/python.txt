@@ -38,3 +38,6 @@ else:
 
 
 # TypeCasting is the process of converting a variable from one type to another. In Python, you can use built-in functions to perform type casting. (str(), int(), float(), etc.)
+
+new_Name = float(Name)
+print(new_Name)  # This will raise a ValueError because "John" cannot be converted to a float
