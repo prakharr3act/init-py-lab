@@ -41,3 +41,6 @@ else:
 
 new_Name = float(Name)
 print(new_Name)  # This will raise a ValueError because "John" cannot be converted to a float
+
+
+User Input in Python
