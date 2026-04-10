@@ -1,0 +1,1 @@
+# input() function prompts the user to enter data and return the data in string format. 

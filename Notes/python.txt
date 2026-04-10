@@ -44,3 +44,4 @@ print(new_Name)  # This will raise a ValueError because "John" cannot be convert
 
 
 User Input in Python
+# input() function prompts the user to enter data and return the data in string format. 
