@@ -9,3 +9,6 @@ gpa = 3.5
 # Converting variables to different types
 new_Gpa = int(gpa)  # Converts float to int
 print(new_Gpa)  # Output: 3
+
+new_Name = float(Name)
+print(new_Name)  # This will raise a ValueError because "John" cannot be converted to a float
