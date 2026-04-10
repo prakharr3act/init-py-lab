@@ -1,0 +1,2 @@
+# Madlibs Game It is a word filling game. 
+# where the user is prompted to enter different types of words (nouns, verbs, adjectives, etc.) and then those words are inserted into a pre-written story template to create a funny or interesting story.
