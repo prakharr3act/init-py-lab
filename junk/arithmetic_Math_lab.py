@@ -9,3 +9,6 @@ y = 12
 z = 21.032
 print(round(y)) # output: 12
 print(round(z)) # output: 21
+
+# Absolute( ) function 
+# distance away from the whole number
