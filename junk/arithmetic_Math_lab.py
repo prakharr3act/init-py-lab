@@ -24,9 +24,16 @@ print(w) # output: 8
 # helps to find the maximum number from the given numbers
 a = 1.026
 b = 3.021
-c = 120.20                       # It is not a good practice to assign variables name like a b c d. It is better to assign meaningful variable names.
+c = 120.20                       # It is not a good practice to assign variables name like a b c d.
+                                 # It is better to assign meaningful variable names.
 d = 0.0001
 print(max(a,b,c,d)) # output: 120.2
 
 # min  ( ) function
 # helps to find the minimum number from the given numbers
+
+e = 1.026
+f = 3.021
+g = 120.20
+h = 0.0001
+print(min(e,f,g,h)) # output: 0.0001
