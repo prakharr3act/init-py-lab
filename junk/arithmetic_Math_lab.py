@@ -16,3 +16,6 @@ v = -12
 print(abs(v)) # output: 12
 
 # power( ) function
+w = pow(2,3) # 2 is base and 3 is exponent 
+# similar as we use in js 2**3
+print(w) # output: 8
