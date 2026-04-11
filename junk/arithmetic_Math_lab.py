@@ -19,3 +19,4 @@ print(abs(v)) # output: 12
 w = pow(2,3) # 2 is base and 3 is exponent 
 # similar as we use in js 2**3
 print(w) # output: 8
+
