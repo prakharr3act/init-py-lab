@@ -20,3 +20,13 @@ w = pow(2,3) # 2 is base and 3 is exponent
 # similar as we use in js 2**3
 print(w) # output: 8
 
+# max( ) function
+# helps to find the maximum number from the given numbers
+a = 1.026
+b = 3.021
+c = 120.20                       # It is not a good practice to assign variables name like a b c d. It is better to assign meaningful variable names.
+d = 0.0001
+print(max(a,b,c,d)) # output: 120.2
+
+# min  ( ) function
+# helps to find the minimum number from the given numbers
