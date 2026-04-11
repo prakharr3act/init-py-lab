@@ -14,3 +14,5 @@ print(round(z)) # output: 21
 # distance away from the whole number
 v = -12
 print(abs(v)) # output: 12
+
+# power( ) function
