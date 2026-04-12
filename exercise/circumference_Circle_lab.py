@@ -1,3 +1,3 @@
 import math
 
-radius = input("Enter the radius of the circle: ")
+radius = float(input("Enter the radius of the circle: "))
