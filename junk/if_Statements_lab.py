@@ -7,5 +7,5 @@ if no_Of_Contributions > 80:
     # elif (else if in other languages) = do something if the previous conditions were false and this condition is true
 elif no_Of_Contributions > 50:
     print("You are a good contributor")
-else:
+elif no_Of_Contributions > 20:
     print("You need to contribute more")
