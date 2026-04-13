@@ -6,7 +6,7 @@ elif response == 'java':
 else:
     print("That's a good language too!")
 
-    request = input("What is your request? ")
+    request = input("What is your request?")
 if request == 'error':
     print("Enter your error id here")
 else:
