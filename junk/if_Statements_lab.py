@@ -13,3 +13,6 @@ else:
     print("You have not contributed enough")
 
 response =  input("What is your favorite programming language? ")
+if response == 'python':
+    print("Python is a great language")
+    elif response == 'java':
