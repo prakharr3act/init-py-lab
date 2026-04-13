@@ -9,3 +9,6 @@ elif no_Of_Contributions > 50:
     print("You are a good contributor")
 elif no_Of_Contributions > 20:
     print("You need to contribute more")
+else:
+    print("You have not contributed enough")
+
