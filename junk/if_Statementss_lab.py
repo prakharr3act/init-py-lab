@@ -5,3 +5,9 @@ elif response == 'java':
     print("Java is a great language")
 else:
     print("That's a good language too!")
+
+    request = input("What is your request? ")
+    if request == 'error':
+        print("Enter your error id here")
+    else:
+    print("Your request is being processed")
