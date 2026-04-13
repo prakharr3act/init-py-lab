@@ -1,7 +1,7 @@
 # if = do something if a condition is true
 # else = do something if the condition is false
 
-
+no_Of_Contributions = int(input("How many contributions have you made? "))
 if no_Of_Contributions > 80:
     print("You are a top contributor")
 else:
